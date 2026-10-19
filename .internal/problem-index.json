@@ -1,0 +1,18 @@
+[
+  {
+    "folderId": "leetcode/0474-ones-and-zeroes",
+    "frontendId": "474",
+    "title": "Ones and Zeroes",
+    "slug": "ones-and-zeroes",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Knapsack Problem",
+      "0-1 Knapsack"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-19T03:40:50.849Z"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "474",
+  "frontendId": "474",
+  "title": "Ones and Zeroes",
+  "slug": "ones-and-zeroes",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Knapsack Problem",
+    "0-1 Knapsack"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "966 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2175857161",
+  "acceptedAt": "2026-10-19T03:40:50.849Z",
+  "updatedAt": "2026-10-19T03:40:51.791Z",
+  "url": "https://leetcode.com/problems/ones-and-zeroes/",
+  "version": 1
+}
