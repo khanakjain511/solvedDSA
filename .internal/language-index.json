@@ -1,5 +1,6 @@
 {
   "python3": [
-    "leetcode/0474-ones-and-zeroes"
+    "leetcode/0474-ones-and-zeroes",
+    "leetcode/0027-remove-element"
   ]
 }

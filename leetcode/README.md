@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**1** problems solved — 0 Easy · 1 Medium · 0 Hard
+**2** problems solved — 1 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -14,13 +14,16 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 
 ## By Difficulty
 
-### Easy (0)
+### Easy (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 
 ### Medium (1)
 
@@ -44,10 +47,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (1)</summary>
+<summary>Array (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
 </details>
@@ -79,13 +83,23 @@ _No problems solved yet._
 
 </details>
 
-## By Language
-
 <details>
-<summary>python3 (1)</summary>
+<summary>Two Pointers (1)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+
+</details>
+
+## By Language
+
+<details>
+<summary>python3 (2)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
 </details>
@@ -94,4 +108,5 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-19 |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | 2026-10-19 |

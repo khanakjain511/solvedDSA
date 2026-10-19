@@ -1,6 +1,7 @@
 {
   "Array": [
-    "leetcode/0474-ones-and-zeroes"
+    "leetcode/0474-ones-and-zeroes",
+    "leetcode/0027-remove-element"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes"
@@ -13,5 +14,8 @@
   ],
   "0-1 Knapsack": [
     "leetcode/0474-ones-and-zeroes"
+  ],
+  "Two Pointers": [
+    "leetcode/0027-remove-element"
   ]
 }
