@@ -27,5 +27,22 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-19T04:00:24.885Z"
+  },
+  {
+    "folderId": "leetcode/0169-majority-element",
+    "frontendId": "169",
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting",
+      "Boyer–Moore Majority Vote Algorithm"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-20T19:01:25.181Z"
   }
 ]

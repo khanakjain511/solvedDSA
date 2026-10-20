@@ -1,7 +1,8 @@
 {
   "Array": [
     "leetcode/0474-ones-and-zeroes",
-    "leetcode/0027-remove-element"
+    "leetcode/0027-remove-element",
+    "leetcode/0169-majority-element"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes"
@@ -17,5 +18,20 @@
   ],
   "Two Pointers": [
     "leetcode/0027-remove-element"
+  ],
+  "Hash Table": [
+    "leetcode/0169-majority-element"
+  ],
+  "Divide and Conquer": [
+    "leetcode/0169-majority-element"
+  ],
+  "Sorting": [
+    "leetcode/0169-majority-element"
+  ],
+  "Counting": [
+    "leetcode/0169-majority-element"
+  ],
+  "Boyer–Moore Majority Vote Algorithm": [
+    "leetcode/0169-majority-element"
   ]
 }

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**2** problems solved — 1 Easy · 1 Medium · 0 Hard
+**3** problems solved — 2 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -15,15 +15,17 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 
 ## By Difficulty
 
-### Easy (1)
+### Easy (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 
 ### Medium (1)
 
@@ -47,12 +49,40 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (2)</summary>
+<summary>Array (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Boyer–Moore Majority Vote Algorithm (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Counting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Divide and Conquer (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 
 </details>
 
@@ -66,11 +96,29 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Hash Table (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Knapsack Problem (1)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Sorting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 
 </details>
 
@@ -95,11 +143,12 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (2)</summary>
+<summary>python3 (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
 </details>
@@ -108,5 +157,6 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy | 2026-10-20 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-19 |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | 2026-10-19 |
