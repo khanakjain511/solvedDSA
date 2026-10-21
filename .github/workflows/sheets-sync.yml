@@ -1,0 +1,71 @@
+
+name: Sync LeetCode to Khanak Tracker
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "leetcode/**/metadata.json"
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Send new problems to Apps Script
+        env:
+          WEB_APP_URL: ${{ secrets.SHEETS_WEB_APP_URL }}
+          TOKEN: ${{ secrets.SHEETS_SYNC_TOKEN }}
+          REPO: ${{ github.repository }}
+          SHA: ${{ github.sha }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ -z "$WEB_APP_URL" || -z "$TOKEN" ]]; then
+            echo "Configure both GitHub Actions secrets first."
+            exit 1
+          fi
+
+          files=$(git diff --name-only "$SHA^" "$SHA" -- 'leetcode/**/metadata.json')
+
+          while IFS= read -r file; do
+            [[ -z "$file" || ! -f "$file" ]] && continue
+
+            title=$(jq -r '.title // empty' "$file")
+            url=$(jq -r '.url // empty' "$file")
+            accepted=$(jq -r '.acceptedAt // empty' "$file")
+            folder=$(dirname "$file")
+
+            [[ -z "$title" || -z "$url" ]] && continue
+
+            if [[ -n "$accepted" ]]; then
+              date_text=$(TZ=Asia/Kolkata date -d "$accepted" +%F)
+            else
+              date_text=$(TZ=Asia/Kolkata date +%F)
+            fi
+
+            solution="https://github.com/$REPO/tree/main/$folder"
+
+            payload=$(jq -n \
+              --arg token "$TOKEN" \
+              --arg title "$title" \
+              --arg questionUrl "$url" \
+              --arg solutionUrl "$solution" \
+              --arg date "$date_text" \
+              '{token:$token,title:$title,questionUrl:$questionUrl,solutionUrl:$solutionUrl,date:$date}')
+
+            response=$(curl -fsSL \
+              -H "Content-Type: application/json" \
+              -d "$payload" "$WEB_APP_URL")
+
+            echo "$response"
+            echo "$response" | jq -e '.ok == true' >/dev/null
+          done <<< "$files"
