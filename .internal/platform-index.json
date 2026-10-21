@@ -3,6 +3,7 @@
     "leetcode/0474-ones-and-zeroes",
     "leetcode/0027-remove-element",
     "leetcode/0169-majority-element",
-    "leetcode/0091-decode-ways"
+    "leetcode/0091-decode-ways",
+    "leetcode/0022-generate-parentheses"
   ]
 }

@@ -57,5 +57,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-21T03:51:16.308Z"
+  },
+  {
+    "folderId": "leetcode/0022-generate-parentheses",
+    "frontendId": "22",
+    "title": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bracket Sequences"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-21T14:22:23.566Z"
   }
 ]

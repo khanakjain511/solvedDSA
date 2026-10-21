@@ -6,11 +6,13 @@
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
-    "leetcode/0091-decode-ways"
+    "leetcode/0091-decode-ways",
+    "leetcode/0022-generate-parentheses"
   ],
   "Dynamic Programming": [
     "leetcode/0474-ones-and-zeroes",
-    "leetcode/0091-decode-ways"
+    "leetcode/0091-decode-ways",
+    "leetcode/0022-generate-parentheses"
   ],
   "Knapsack Problem": [
     "leetcode/0474-ones-and-zeroes"
@@ -35,5 +37,11 @@
   ],
   "Boyer–Moore Majority Vote Algorithm": [
     "leetcode/0169-majority-element"
+  ],
+  "Backtracking": [
+    "leetcode/0022-generate-parentheses"
+  ],
+  "Bracket Sequences": [
+    "leetcode/0022-generate-parentheses"
   ]
 }
