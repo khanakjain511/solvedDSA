@@ -5,10 +5,12 @@
     "leetcode/0169-majority-element"
   ],
   "String": [
-    "leetcode/0474-ones-and-zeroes"
+    "leetcode/0474-ones-and-zeroes",
+    "leetcode/0091-decode-ways"
   ],
   "Dynamic Programming": [
-    "leetcode/0474-ones-and-zeroes"
+    "leetcode/0474-ones-and-zeroes",
+    "leetcode/0091-decode-ways"
   ],
   "Knapsack Problem": [
     "leetcode/0474-ones-and-zeroes"
