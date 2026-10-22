@@ -2,7 +2,8 @@
   "Array": [
     "leetcode/0474-ones-and-zeroes",
     "leetcode/0027-remove-element",
-    "leetcode/0169-majority-element"
+    "leetcode/0169-majority-element",
+    "leetcode/0001-two-sum"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -24,7 +25,8 @@
     "leetcode/0027-remove-element"
   ],
   "Hash Table": [
-    "leetcode/0169-majority-element"
+    "leetcode/0169-majority-element",
+    "leetcode/0001-two-sum"
   ],
   "Divide and Conquer": [
     "leetcode/0169-majority-element"

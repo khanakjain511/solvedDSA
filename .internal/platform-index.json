@@ -4,6 +4,7 @@
     "leetcode/0027-remove-element",
     "leetcode/0169-majority-element",
     "leetcode/0091-decode-ways",
-    "leetcode/0022-generate-parentheses"
+    "leetcode/0022-generate-parentheses",
+    "leetcode/0001-two-sum"
   ]
 }

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**5** problems solved — 2 Easy · 3 Medium · 0 Hard
+**6** problems solved — 3 Easy · 3 Medium · 0 Hard
 
 ## Contents
 
@@ -14,6 +14,7 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
@@ -22,10 +23,11 @@
 
 ## By Difficulty
 
-### Easy (2)
+### Easy (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 
@@ -53,10 +55,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (3)</summary>
+<summary>Array (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
@@ -120,10 +123,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (1)</summary>
+<summary>Hash Table (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 
 </details>
@@ -169,10 +173,11 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (5)</summary>
+<summary>python3 (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
@@ -185,6 +190,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-22 |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-21 |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-21 |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | 2026-10-20 |

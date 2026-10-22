@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1",
+  "frontendId": "1",
+  "title": "Two Sum",
+  "slug": "two-sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1624 ms",
+  "memory": "19.8 MB",
+  "submissionId": "2178503106",
+  "acceptedAt": "2026-10-22T04:42:31.527Z",
+  "updatedAt": "2026-10-22T04:42:32.549Z",
+  "url": "https://leetcode.com/problems/two-sum/",
+  "version": 1
+}
