@@ -101,5 +101,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-22T07:48:55.029Z"
+  },
+  {
+    "folderId": "leetcode/0088-merge-sorted-array",
+    "frontendId": "88",
+    "title": "Merge Sorted Array",
+    "slug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-22T15:38:38.400Z"
   }
 ]

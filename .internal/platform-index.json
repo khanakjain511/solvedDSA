@@ -6,6 +6,7 @@
     "leetcode/0091-decode-ways",
     "leetcode/0022-generate-parentheses",
     "leetcode/0001-two-sum",
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/0088-merge-sorted-array"
   ]
 }

@@ -4,7 +4,8 @@
     "leetcode/0027-remove-element",
     "leetcode/0169-majority-element",
     "leetcode/0001-two-sum",
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/0088-merge-sorted-array"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -25,7 +26,8 @@
     "leetcode/0474-ones-and-zeroes"
   ],
   "Two Pointers": [
-    "leetcode/0027-remove-element"
+    "leetcode/0027-remove-element",
+    "leetcode/0088-merge-sorted-array"
   ],
   "Hash Table": [
     "leetcode/0169-majority-element",
@@ -35,7 +37,8 @@
     "leetcode/0169-majority-element"
   ],
   "Sorting": [
-    "leetcode/0169-majority-element"
+    "leetcode/0169-majority-element",
+    "leetcode/0088-merge-sorted-array"
   ],
   "Counting": [
     "leetcode/0169-majority-element"
