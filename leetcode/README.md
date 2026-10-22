@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**6** problems solved — 3 Easy · 3 Medium · 0 Hard
+**7** problems solved — 3 Easy · 4 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 
 ## By Difficulty
@@ -31,12 +32,13 @@
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 
-### Medium (3)
+### Medium (4)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 
 ### Hard (0)
@@ -55,13 +57,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (4)</summary>
+<summary>Array (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
 </details>
@@ -94,6 +97,24 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Breadth-First Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Complete Knapsack (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Counting (1)</summary>
 
 | # | Title | Difficulty |
@@ -112,12 +133,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (3)</summary>
+<summary>Dynamic Programming (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
 </details>
@@ -133,10 +155,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Knapsack Problem (1)</summary>
+<summary>Knapsack Problem (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
 </details>
@@ -173,7 +196,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (6)</summary>
+<summary>python3 (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -182,6 +205,7 @@ _No problems solved yet._
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
 </details>
@@ -190,6 +214,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-22 |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-22 |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-21 |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-21 |

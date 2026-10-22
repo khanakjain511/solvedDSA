@@ -3,7 +3,8 @@
     "leetcode/0474-ones-and-zeroes",
     "leetcode/0027-remove-element",
     "leetcode/0169-majority-element",
-    "leetcode/0001-two-sum"
+    "leetcode/0001-two-sum",
+    "leetcode/0322-coin-change"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -13,10 +14,12 @@
   "Dynamic Programming": [
     "leetcode/0474-ones-and-zeroes",
     "leetcode/0091-decode-ways",
-    "leetcode/0022-generate-parentheses"
+    "leetcode/0022-generate-parentheses",
+    "leetcode/0322-coin-change"
   ],
   "Knapsack Problem": [
-    "leetcode/0474-ones-and-zeroes"
+    "leetcode/0474-ones-and-zeroes",
+    "leetcode/0322-coin-change"
   ],
   "0-1 Knapsack": [
     "leetcode/0474-ones-and-zeroes"
@@ -45,5 +48,11 @@
   ],
   "Bracket Sequences": [
     "leetcode/0022-generate-parentheses"
+  ],
+  "Breadth-First Search": [
+    "leetcode/0322-coin-change"
+  ],
+  "Complete Knapsack": [
+    "leetcode/0322-coin-change"
   ]
 }
