@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1791",
+  "frontendId": "1672",
+  "title": "Richest Customer Wealth",
+  "slug": "richest-customer-wealth",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2183876889",
+  "acceptedAt": "2026-10-28T12:03:52.927Z",
+  "updatedAt": "2026-10-28T12:03:53.923Z",
+  "url": "https://leetcode.com/problems/richest-customer-wealth/",
+  "version": 1
+}

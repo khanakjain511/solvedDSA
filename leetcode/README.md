@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**12** problems solved — 6 Easy · 6 Medium · 0 Hard
+**13** problems solved — 7 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -25,11 +25,12 @@
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ## By Difficulty
 
-### Easy (6)
+### Easy (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -38,6 +39,7 @@
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Array, Depth-First Search, Breadth-First Search, Matrix |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ### Medium (6)
@@ -67,7 +69,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (8)</summary>
+<summary>Array (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -79,6 +81,7 @@ _No problems solved yet._
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 
 </details>
 
@@ -204,12 +207,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Matrix (2)</summary>
+<summary>Matrix (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 
 </details>
 
@@ -258,7 +262,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (12)</summary>
+<summary>python3 (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -273,6 +277,7 @@ _No problems solved yet._
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -281,6 +286,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | 2026-10-28 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-28 |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | 2026-10-28 |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-28 |

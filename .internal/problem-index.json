@@ -176,5 +176,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-28T04:32:27.308Z"
+  },
+  {
+    "folderId": "leetcode/1672-richest-customer-wealth",
+    "frontendId": "1672",
+    "title": "Richest Customer Wealth",
+    "slug": "richest-customer-wealth",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-28T12:03:52.927Z"
   }
 ]
