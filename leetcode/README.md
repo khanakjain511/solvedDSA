@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**11** problems solved — 6 Easy · 5 Medium · 0 Hard
+**12** problems solved — 6 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -20,6 +20,7 @@
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
@@ -39,12 +40,13 @@
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (5)
+### Medium (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
@@ -65,7 +67,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (7)</summary>
+<summary>Array (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -73,6 +75,7 @@ _No problems solved yet._
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
@@ -107,10 +110,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Breadth-First Search (4)</summary>
+<summary>Breadth-First Search (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
@@ -137,10 +141,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Depth-First Search (3)</summary>
+<summary>Depth-First Search (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
@@ -199,10 +204,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Matrix (1)</summary>
+<summary>Matrix (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 
 </details>
@@ -239,10 +245,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Union-Find (2)</summary>
+<summary>Union-Find (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
@@ -251,7 +258,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (11)</summary>
+<summary>python3 (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -261,6 +268,7 @@ _No problems solved yet._
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
@@ -273,6 +281,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-28 |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | 2026-10-28 |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-28 |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | 2026-10-28 |

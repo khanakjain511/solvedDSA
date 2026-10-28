@@ -10,6 +10,7 @@
     "leetcode/0088-merge-sorted-array",
     "leetcode/1971-find-if-path-exists-in-graph",
     "leetcode/0547-number-of-provinces",
-    "leetcode/0733-flood-fill"
+    "leetcode/0733-flood-fill",
+    "leetcode/0200-number-of-islands"
   ]
 }
