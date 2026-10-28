@@ -130,5 +130,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-28T04:10:21.897Z"
+  },
+  {
+    "folderId": "leetcode/0547-number-of-provinces",
+    "frontendId": "547",
+    "title": "Number of Provinces",
+    "slug": "number-of-provinces",
+    "difficulty": "Medium",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-28T04:19:06.425Z"
   }
 ]

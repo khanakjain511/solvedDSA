@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "547",
+  "frontendId": "547",
+  "title": "Number of Provinces",
+  "slug": "number-of-provinces",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "3 ms",
+  "memory": "21.2 MB",
+  "submissionId": "2183589555",
+  "acceptedAt": "2026-10-28T04:19:06.425Z",
+  "updatedAt": "2026-10-28T04:19:07.294Z",
+  "url": "https://leetcode.com/problems/number-of-provinces/",
+  "version": 1
+}

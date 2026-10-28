@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**9** problems solved — 5 Easy · 4 Medium · 0 Hard
+**10** problems solved — 5 Easy · 5 Medium · 0 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
+| 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ## By Difficulty
@@ -36,7 +37,7 @@
 | 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (4)
+### Medium (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -44,6 +45,7 @@
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
+| 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ### Hard (0)
 
@@ -102,11 +104,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Breadth-First Search (2)</summary>
+<summary>Breadth-First Search (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -130,10 +133,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Depth-First Search (1)</summary>
+<summary>Depth-First Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -160,10 +164,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Graph Theory (1)</summary>
+<summary>Graph Theory (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -220,10 +225,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Union-Find (1)</summary>
+<summary>Union-Find (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -231,7 +237,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (9)</summary>
+<summary>python3 (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -243,6 +249,7 @@ _No problems solved yet._
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
+| 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -251,6 +258,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-28 |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | 2026-10-28 |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-22 |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-22 |
