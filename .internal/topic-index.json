@@ -53,9 +53,19 @@
     "leetcode/0022-generate-parentheses"
   ],
   "Breadth-First Search": [
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/1971-find-if-path-exists-in-graph"
   ],
   "Complete Knapsack": [
     "leetcode/0322-coin-change"
+  ],
+  "Depth-First Search": [
+    "leetcode/1971-find-if-path-exists-in-graph"
+  ],
+  "Union-Find": [
+    "leetcode/1971-find-if-path-exists-in-graph"
+  ],
+  "Graph Theory": [
+    "leetcode/1971-find-if-path-exists-in-graph"
   ]
 }

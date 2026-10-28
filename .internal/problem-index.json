@@ -115,5 +115,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-22T15:38:38.400Z"
+  },
+  {
+    "folderId": "leetcode/1971-find-if-path-exists-in-graph",
+    "frontendId": "1971",
+    "title": "Find if Path Exists in Graph",
+    "slug": "find-if-path-exists-in-graph",
+    "difficulty": "Easy",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-28T04:10:21.897Z"
   }
 ]

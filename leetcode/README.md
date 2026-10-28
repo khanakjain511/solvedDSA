@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**8** problems solved — 4 Easy · 4 Medium · 0 Hard
+**9** problems solved — 5 Easy · 4 Medium · 0 Hard
 
 ## Contents
 
@@ -22,10 +22,11 @@
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ## By Difficulty
 
-### Easy (4)
+### Easy (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -33,6 +34,7 @@
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ### Medium (4)
 
@@ -100,11 +102,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Breadth-First Search (1)</summary>
+<summary>Breadth-First Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
 
@@ -127,6 +130,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Depth-First Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Divide and Conquer (1)</summary>
 
 | # | Title | Difficulty |
@@ -144,6 +156,15 @@ _No problems solved yet._
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Graph Theory (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
 
@@ -198,10 +219,19 @@ _No problems solved yet._
 
 </details>
 
+<details>
+<summary>Union-Find (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
+
+</details>
+
 ## By Language
 
 <details>
-<summary>python3 (8)</summary>
+<summary>python3 (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -213,6 +243,7 @@ _No problems solved yet._
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
 
@@ -220,6 +251,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | 2026-10-28 |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-22 |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-22 |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-22 |
