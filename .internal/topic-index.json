@@ -5,7 +5,8 @@
     "leetcode/0169-majority-element",
     "leetcode/0001-two-sum",
     "leetcode/0322-coin-change",
-    "leetcode/0088-merge-sorted-array"
+    "leetcode/0088-merge-sorted-array",
+    "leetcode/0733-flood-fill"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -55,14 +56,16 @@
   "Breadth-First Search": [
     "leetcode/0322-coin-change",
     "leetcode/1971-find-if-path-exists-in-graph",
-    "leetcode/0547-number-of-provinces"
+    "leetcode/0547-number-of-provinces",
+    "leetcode/0733-flood-fill"
   ],
   "Complete Knapsack": [
     "leetcode/0322-coin-change"
   ],
   "Depth-First Search": [
     "leetcode/1971-find-if-path-exists-in-graph",
-    "leetcode/0547-number-of-provinces"
+    "leetcode/0547-number-of-provinces",
+    "leetcode/0733-flood-fill"
   ],
   "Union-Find": [
     "leetcode/1971-find-if-path-exists-in-graph",
@@ -71,5 +74,8 @@
   "Graph Theory": [
     "leetcode/1971-find-if-path-exists-in-graph",
     "leetcode/0547-number-of-provinces"
+  ],
+  "Matrix": [
+    "leetcode/0733-flood-fill"
   ]
 }
