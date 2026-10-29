@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**13** problems solved — 7 Easy · 6 Medium · 0 Hard
+**14** problems solved — 7 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
@@ -42,12 +43,13 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (6)
+### Medium (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
@@ -95,6 +97,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Binary Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Boyer–Moore Majority Vote Algorithm (1)</summary>
 
 | # | Title | Difficulty |
@@ -113,10 +124,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Breadth-First Search (5)</summary>
+<summary>Breadth-First Search (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
@@ -239,6 +251,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Two Pointers (2)</summary>
 
 | # | Title | Difficulty |
@@ -262,7 +283,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (13)</summary>
+<summary>python3 (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -271,6 +292,7 @@ _No problems solved yet._
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
@@ -286,6 +308,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-10-29 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | 2026-10-28 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-28 |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | 2026-10-28 |

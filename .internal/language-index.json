@@ -12,6 +12,7 @@
     "leetcode/0547-number-of-provinces",
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
-    "leetcode/1672-richest-customer-wealth"
+    "leetcode/1672-richest-customer-wealth",
+    "leetcode/0102-binary-tree-level-order-traversal"
   ]
 }
