@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "111",
+  "frontendId": "111",
+  "title": "Minimum Depth of Binary Tree",
+  "slug": "minimum-depth-of-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "53 ms",
+  "memory": "45.1 MB",
+  "submissionId": "2184416809",
+  "acceptedAt": "2026-10-29T04:32:18.345Z",
+  "updatedAt": "2026-10-29T04:32:19.343Z",
+  "url": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+  "version": 1
+}

@@ -203,5 +203,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T04:29:04.988Z"
+  },
+  {
+    "folderId": "leetcode/0111-minimum-depth-of-binary-tree",
+    "frontendId": "111",
+    "title": "Minimum Depth of Binary Tree",
+    "slug": "minimum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T04:32:18.345Z"
   }
 ]

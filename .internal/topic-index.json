@@ -61,7 +61,8 @@
     "leetcode/0547-number-of-provinces",
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
-    "leetcode/0102-binary-tree-level-order-traversal"
+    "leetcode/0102-binary-tree-level-order-traversal",
+    "leetcode/0111-minimum-depth-of-binary-tree"
   ],
   "Complete Knapsack": [
     "leetcode/0322-coin-change"
@@ -70,7 +71,8 @@
     "leetcode/1971-find-if-path-exists-in-graph",
     "leetcode/0547-number-of-provinces",
     "leetcode/0733-flood-fill",
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0111-minimum-depth-of-binary-tree"
   ],
   "Union-Find": [
     "leetcode/1971-find-if-path-exists-in-graph",
@@ -87,9 +89,11 @@
     "leetcode/1672-richest-customer-wealth"
   ],
   "Tree": [
-    "leetcode/0102-binary-tree-level-order-traversal"
+    "leetcode/0102-binary-tree-level-order-traversal",
+    "leetcode/0111-minimum-depth-of-binary-tree"
   ],
   "Binary Tree": [
-    "leetcode/0102-binary-tree-level-order-traversal"
+    "leetcode/0102-binary-tree-level-order-traversal",
+    "leetcode/0111-minimum-depth-of-binary-tree"
   ]
 }
