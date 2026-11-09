@@ -218,5 +218,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T04:32:18.345Z"
+  },
+  {
+    "folderId": "leetcode/0009-palindrome-number",
+    "frontendId": "9",
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Math"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-09T15:29:54.885Z"
   }
 ]

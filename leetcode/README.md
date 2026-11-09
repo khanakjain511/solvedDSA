@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**15** problems solved — 8 Easy · 7 Medium · 0 Hard
+**16** problems solved — 9 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
+| 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | Math |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
@@ -32,11 +33,12 @@
 
 ## By Difficulty
 
-### Easy (8)
+### Easy (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
+| 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Math |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -224,6 +226,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Math (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Matrix (3)</summary>
 
 | # | Title | Difficulty |
@@ -289,11 +300,12 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (15)</summary>
+<summary>python3 (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -315,6 +327,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | 2026-11-09 |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy | 2026-10-29 |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-10-29 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | 2026-10-28 |
@@ -329,4 +342,3 @@ _No problems solved yet._
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-21 |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | 2026-10-20 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-19 |
-| 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | 2026-10-19 |

@@ -14,6 +14,7 @@
     "leetcode/0200-number-of-islands",
     "leetcode/1672-richest-customer-wealth",
     "leetcode/0102-binary-tree-level-order-traversal",
-    "leetcode/0111-minimum-depth-of-binary-tree"
+    "leetcode/0111-minimum-depth-of-binary-tree",
+    "leetcode/0009-palindrome-number"
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "9",
+  "frontendId": "9",
+  "title": "Palindrome Number",
+  "slug": "palindrome-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "11 ms",
+  "memory": "19 MB",
+  "submissionId": "2192574292",
+  "acceptedAt": "2026-11-09T15:29:54.885Z",
+  "updatedAt": "2026-11-09T15:29:56.054Z",
+  "url": "https://leetcode.com/problems/palindrome-number/",
+  "version": 1
+}
