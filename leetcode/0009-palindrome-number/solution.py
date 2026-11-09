@@ -1,5 +1,5 @@
-# Runtime: 11 ms
-# Memory: 19 MB
+# Runtime: 14 ms
+# Memory: 19.2 MB
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:

@@ -10,11 +10,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "11 ms",
-  "memory": "19 MB",
-  "submissionId": "2192574292",
-  "acceptedAt": "2026-11-09T15:29:54.885Z",
-  "updatedAt": "2026-11-09T15:29:56.054Z",
+  "runtime": "14 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2192577067",
+  "acceptedAt": "2026-11-09T15:34:22.334Z",
+  "updatedAt": "2026-11-09T15:34:23.532Z",
   "url": "https://leetcode.com/problems/palindrome-number/",
-  "version": 1
+  "version": 2
 }
