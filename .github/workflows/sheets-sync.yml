@@ -14,23 +14,26 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 2
 
-      - name: Send new problems to Apps Script
+      - name: Send problems and concepts to Google Sheets
         env:
           WEB_APP_URL: ${{ secrets.SHEETS_WEB_APP_URL }}
           TOKEN: ${{ secrets.SHEETS_SYNC_TOKEN }}
           REPO: ${{ github.repository }}
           SHA: ${{ github.sha }}
+
         shell: bash
+
         run: |
           set -euo pipefail
 
           if [[ -z "$WEB_APP_URL" || -z "$TOKEN" ]]; then
-            echo "Configure both GitHub Actions secrets first."
+            echo "Configure GitHub Actions secrets first."
             exit 1
           fi
 
@@ -42,6 +45,8 @@ jobs:
             title=$(jq -r '.title // empty' "$file")
             url=$(jq -r '.url // empty' "$file")
             accepted=$(jq -r '.acceptedAt // empty' "$file")
+            topics=$(jq -c '.topics // []' "$file")
+
             folder=$(dirname "$file")
 
             [[ -z "$title" || -z "$url" ]] && continue
@@ -60,12 +65,23 @@ jobs:
               --arg questionUrl "$url" \
               --arg solutionUrl "$solution" \
               --arg date "$date_text" \
-              '{token:$token,title:$title,questionUrl:$questionUrl,solutionUrl:$solutionUrl,date:$date}')
+              --argjson topics "$topics" \
+              '{
+                token: $token,
+                title: $title,
+                questionUrl: $questionUrl,
+                solutionUrl: $solutionUrl,
+                date: $date,
+                topics: $topics
+              }')
 
             response=$(curl -fsSL \
               -H "Content-Type: application/json" \
-              -d "$payload" "$WEB_APP_URL")
+              -d "$payload" \
+              "$WEB_APP_URL")
 
             echo "$response"
+
             echo "$response" | jq -e '.ok == true' >/dev/null
+
           done <<< "$files"
