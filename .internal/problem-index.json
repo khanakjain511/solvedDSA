@@ -230,5 +230,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-09T15:34:22.334Z"
+  },
+  {
+    "folderId": "leetcode/0013-roman-to-integer",
+    "frontendId": "13",
+    "title": "Roman to Integer",
+    "slug": "roman-to-integer",
+    "difficulty": "Easy",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-09T15:35:51.827Z"
   }
 ]

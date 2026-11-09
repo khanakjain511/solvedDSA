@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "13",
+  "frontendId": "13",
+  "title": "Roman to Integer",
+  "slug": "roman-to-integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "9 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2192578010",
+  "acceptedAt": "2026-11-09T15:35:51.827Z",
+  "updatedAt": "2026-11-09T15:35:54.601Z",
+  "url": "https://leetcode.com/problems/roman-to-integer/",
+  "version": 1
+}

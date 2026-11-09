@@ -13,7 +13,8 @@
   "String": [
     "leetcode/0474-ones-and-zeroes",
     "leetcode/0091-decode-ways",
-    "leetcode/0022-generate-parentheses"
+    "leetcode/0022-generate-parentheses",
+    "leetcode/0013-roman-to-integer"
   ],
   "Dynamic Programming": [
     "leetcode/0474-ones-and-zeroes",
@@ -34,7 +35,8 @@
   ],
   "Hash Table": [
     "leetcode/0169-majority-element",
-    "leetcode/0001-two-sum"
+    "leetcode/0001-two-sum",
+    "leetcode/0013-roman-to-integer"
   ],
   "Divide and Conquer": [
     "leetcode/0169-majority-element"
@@ -97,6 +99,7 @@
     "leetcode/0111-minimum-depth-of-binary-tree"
   ],
   "Math": [
-    "leetcode/0009-palindrome-number"
+    "leetcode/0009-palindrome-number",
+    "leetcode/0013-roman-to-integer"
   ]
 }
