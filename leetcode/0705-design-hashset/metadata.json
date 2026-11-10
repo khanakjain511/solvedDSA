@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "816",
+  "frontendId": "705",
+  "title": "Design HashSet",
+  "slug": "design-hashset",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "55 ms",
+  "memory": "24.3 MB",
+  "submissionId": "2193127664",
+  "acceptedAt": "2026-11-10T11:34:41.840Z",
+  "updatedAt": "2026-11-10T11:34:42.752Z",
+  "url": "https://leetcode.com/problems/design-hashset/",
+  "version": 1
+}

@@ -17,6 +17,7 @@
     "leetcode/0111-minimum-depth-of-binary-tree",
     "leetcode/0009-palindrome-number",
     "leetcode/0013-roman-to-integer",
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/0705-design-hashset"
   ]
 }

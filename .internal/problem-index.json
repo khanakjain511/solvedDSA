@@ -258,5 +258,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-10T11:30:49.327Z"
+  },
+  {
+    "folderId": "leetcode/0705-design-hashset",
+    "frontendId": "705",
+    "title": "Design HashSet",
+    "slug": "design-hashset",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-10T11:34:41.840Z"
   }
 ]

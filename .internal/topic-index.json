@@ -9,7 +9,8 @@
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
     "leetcode/1672-richest-customer-wealth",
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/0705-design-hashset"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -38,7 +39,8 @@
   "Hash Table": [
     "leetcode/0169-majority-element",
     "leetcode/0001-two-sum",
-    "leetcode/0013-roman-to-integer"
+    "leetcode/0013-roman-to-integer",
+    "leetcode/0705-design-hashset"
   ],
   "Divide and Conquer": [
     "leetcode/0169-majority-element"
@@ -106,5 +108,14 @@
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
+  ],
+  "Linked List": [
+    "leetcode/0705-design-hashset"
+  ],
+  "Design": [
+    "leetcode/0705-design-hashset"
+  ],
+  "Hash Function": [
+    "leetcode/0705-design-hashset"
   ]
 }
