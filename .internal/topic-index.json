@@ -8,13 +8,15 @@
     "leetcode/0088-merge-sorted-array",
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
-    "leetcode/1672-richest-customer-wealth"
+    "leetcode/1672-richest-customer-wealth",
+    "leetcode/0014-longest-common-prefix"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
     "leetcode/0091-decode-ways",
     "leetcode/0022-generate-parentheses",
-    "leetcode/0013-roman-to-integer"
+    "leetcode/0013-roman-to-integer",
+    "leetcode/0014-longest-common-prefix"
   ],
   "Dynamic Programming": [
     "leetcode/0474-ones-and-zeroes",
@@ -101,5 +103,8 @@
   "Math": [
     "leetcode/0009-palindrome-number",
     "leetcode/0013-roman-to-integer"
+  ],
+  "Trie": [
+    "leetcode/0014-longest-common-prefix"
   ]
 }

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**17** problems solved — 10 Easy · 7 Medium · 0 Hard
+**18** problems solved — 11 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -17,6 +17,7 @@
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | Math |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy | Hash Table, Math, String |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
@@ -34,13 +35,14 @@
 
 ## By Difficulty
 
-### Easy (10)
+### Easy (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Math |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Hash Table, Math, String |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -77,11 +79,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (9)</summary>
+<summary>Array (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
@@ -260,11 +263,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (4)</summary>
+<summary>String (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
@@ -278,6 +282,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Trie (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 
 </details>
 
@@ -305,13 +318,14 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (17)</summary>
+<summary>python3 (18)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -333,6 +347,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-11-10 |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy | 2026-11-09 |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | 2026-11-09 |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy | 2026-10-29 |
@@ -347,4 +362,3 @@ _No problems solved yet._
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-22 |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-21 |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-21 |
-| 0169 | [Majority Element](0169-majority-element/README.md) | Easy | 2026-10-20 |
