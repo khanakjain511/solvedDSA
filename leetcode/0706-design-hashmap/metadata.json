@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "817",
+  "frontendId": "706",
+  "title": "Design HashMap",
+  "slug": "design-hashmap",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "70 ms",
+  "memory": "22.5 MB",
+  "submissionId": "2193128528",
+  "acceptedAt": "2026-11-10T11:36:30.857Z",
+  "updatedAt": "2026-11-10T11:36:34.011Z",
+  "url": "https://leetcode.com/problems/design-hashmap/",
+  "version": 1
+}

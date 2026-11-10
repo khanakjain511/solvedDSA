@@ -274,5 +274,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-10T11:34:41.840Z"
+  },
+  {
+    "folderId": "leetcode/0706-design-hashmap",
+    "frontendId": "706",
+    "title": "Design HashMap",
+    "slug": "design-hashmap",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-10T11:36:30.857Z"
   }
 ]

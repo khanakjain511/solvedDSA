@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**19** problems solved — 12 Easy · 7 Medium · 0 Hard
+**20** problems solved — 13 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -30,13 +30,14 @@
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | Array, Hash Table, Linked List, Design, Hash Function |
+| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | Array, Hash Table, Linked List, Design, Hash Function |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ## By Difficulty
 
-### Easy (12)
+### Easy (13)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -49,6 +50,7 @@
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Array, Hash Table, Linked List, Design, Hash Function |
+| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Array, Hash Table, Linked List, Design, Hash Function |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
@@ -81,7 +83,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (11)</summary>
+<summary>Array (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -94,6 +96,7 @@ _No problems solved yet._
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
+| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 
@@ -183,11 +186,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Design (1)</summary>
+<summary>Design (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
+| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 
 </details>
 
@@ -223,16 +227,17 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Function (1)</summary>
+<summary>Hash Function (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
+| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 
 </details>
 
 <details>
-<summary>Hash Table (4)</summary>
+<summary>Hash Table (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -240,6 +245,7 @@ _No problems solved yet._
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
+| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 
 </details>
 
@@ -254,11 +260,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Linked List (1)</summary>
+<summary>Linked List (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
+| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 
 </details>
 
@@ -349,7 +356,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (19)</summary>
+<summary>python3 (20)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -369,6 +376,7 @@ _No problems solved yet._
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
+| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
@@ -379,6 +387,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | 2026-11-10 |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | 2026-11-10 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-11-10 |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy | 2026-11-09 |
@@ -393,4 +402,3 @@ _No problems solved yet._
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-22 |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-22 |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-22 |
-| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-21 |
