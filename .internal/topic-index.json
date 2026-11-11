@@ -11,14 +11,16 @@
     "leetcode/1672-richest-customer-wealth",
     "leetcode/0014-longest-common-prefix",
     "leetcode/0705-design-hashset",
-    "leetcode/0706-design-hashmap"
+    "leetcode/0706-design-hashmap",
+    "leetcode/0049-group-anagrams"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
     "leetcode/0091-decode-ways",
     "leetcode/0022-generate-parentheses",
     "leetcode/0013-roman-to-integer",
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/0049-group-anagrams"
   ],
   "Dynamic Programming": [
     "leetcode/0474-ones-and-zeroes",
@@ -42,14 +44,16 @@
     "leetcode/0001-two-sum",
     "leetcode/0013-roman-to-integer",
     "leetcode/0705-design-hashset",
-    "leetcode/0706-design-hashmap"
+    "leetcode/0706-design-hashmap",
+    "leetcode/0049-group-anagrams"
   ],
   "Divide and Conquer": [
     "leetcode/0169-majority-element"
   ],
   "Sorting": [
     "leetcode/0169-majority-element",
-    "leetcode/0088-merge-sorted-array"
+    "leetcode/0088-merge-sorted-array",
+    "leetcode/0049-group-anagrams"
   ],
   "Counting": [
     "leetcode/0169-majority-element"

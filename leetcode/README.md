@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**20** problems solved — 13 Easy · 7 Medium · 0 Hard
+**21** problems solved — 13 Easy · 8 Medium · 0 Hard
 
 ## Contents
 
@@ -20,6 +20,7 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
+| 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
@@ -55,11 +56,12 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (7)
+### Medium (8)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
+| 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -83,13 +85,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (12)</summary>
+<summary>Array (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
@@ -237,12 +240,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (5)</summary>
+<summary>Hash Table (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
+| 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
@@ -291,23 +295,25 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (2)</summary>
+<summary>Sorting (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 
 </details>
 
 <details>
-<summary>String (5)</summary>
+<summary>String (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
+| 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
@@ -356,7 +362,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (20)</summary>
+<summary>python3 (21)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -366,6 +372,7 @@ _No problems solved yet._
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
@@ -387,6 +394,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-11-11 |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | 2026-11-10 |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | 2026-11-10 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-11-10 |
@@ -401,4 +409,3 @@ _No problems solved yet._
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | 2026-10-28 |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-22 |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-22 |
-| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-22 |
