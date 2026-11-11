@@ -340,5 +340,24 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-11T18:14:08.619Z"
+  },
+  {
+    "folderId": "leetcode/0347-top-k-frequent-elements",
+    "frontendId": "347",
+    "title": "Top K Frequent Elements",
+    "slug": "top-k-frequent-elements",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-11T18:15:01.941Z"
   }
 ]

@@ -14,7 +14,8 @@
     "leetcode/0706-design-hashmap",
     "leetcode/0049-group-anagrams",
     "leetcode/0912-sort-an-array",
-    "leetcode/0075-sort-colors"
+    "leetcode/0075-sort-colors",
+    "leetcode/0347-top-k-frequent-elements"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -48,21 +49,25 @@
     "leetcode/0013-roman-to-integer",
     "leetcode/0705-design-hashset",
     "leetcode/0706-design-hashmap",
-    "leetcode/0049-group-anagrams"
+    "leetcode/0049-group-anagrams",
+    "leetcode/0347-top-k-frequent-elements"
   ],
   "Divide and Conquer": [
     "leetcode/0169-majority-element",
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0347-top-k-frequent-elements"
   ],
   "Sorting": [
     "leetcode/0169-majority-element",
     "leetcode/0088-merge-sorted-array",
     "leetcode/0049-group-anagrams",
     "leetcode/0912-sort-an-array",
-    "leetcode/0075-sort-colors"
+    "leetcode/0075-sort-colors",
+    "leetcode/0347-top-k-frequent-elements"
   ],
   "Counting": [
-    "leetcode/0169-majority-element"
+    "leetcode/0169-majority-element",
+    "leetcode/0347-top-k-frequent-elements"
   ],
   "Boyer–Moore Majority Vote Algorithm": [
     "leetcode/0169-majority-element"
@@ -134,13 +139,15 @@
     "leetcode/0706-design-hashmap"
   ],
   "Heap (Priority Queue)": [
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0347-top-k-frequent-elements"
   ],
   "Merge Sort": [
     "leetcode/0912-sort-an-array"
   ],
   "Bucket Sort": [
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0347-top-k-frequent-elements"
   ],
   "Radix Sort": [
     "leetcode/0912-sort-an-array"
@@ -153,5 +160,8 @@
   ],
   "Bubble Sort": [
     "leetcode/0075-sort-colors"
+  ],
+  "Quickselect": [
+    "leetcode/0347-top-k-frequent-elements"
   ]
 }

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**23** problems solved — 13 Easy · 10 Medium · 0 Hard
+**24** problems solved — 13 Easy · 11 Medium · 0 Hard
 
 ## Contents
 
@@ -29,6 +29,7 @@
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | Array, Hash Table, Linked List, Design, Hash Function |
@@ -58,7 +59,7 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (10)
+### Medium (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -69,6 +70,7 @@
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
@@ -89,7 +91,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (15)</summary>
+<summary>Array (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -102,6 +104,7 @@ _No problems solved yet._
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
@@ -173,10 +176,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Bucket Sort (1)</summary>
+<summary>Bucket Sort (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -191,11 +195,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting (1)</summary>
+<summary>Counting (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 
 </details>
 
@@ -232,11 +237,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Divide and Conquer (2)</summary>
+<summary>Divide and Conquer (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -274,7 +280,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (6)</summary>
+<summary>Hash Table (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -282,16 +288,18 @@ _No problems solved yet._
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 
 </details>
 
 <details>
-<summary>Heap (Priority Queue) (1)</summary>
+<summary>Heap (Priority Queue) (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -347,6 +355,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Quickselect (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Quicksort (1)</summary>
 
 | # | Title | Difficulty |
@@ -365,7 +382,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (5)</summary>
+<summary>Sorting (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -373,6 +390,7 @@ _No problems solved yet._
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -435,7 +453,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (23)</summary>
+<summary>python3 (24)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -454,6 +472,7 @@ _No problems solved yet._
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
@@ -469,6 +488,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-11-11 |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-11-11 |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-11-11 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-11-11 |
@@ -483,4 +503,3 @@ _No problems solved yet._
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-28 |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | 2026-10-28 |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-28 |
-| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | 2026-10-28 |
