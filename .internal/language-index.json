@@ -21,6 +21,7 @@
     "leetcode/0705-design-hashset",
     "leetcode/0706-design-hashmap",
     "leetcode/0049-group-anagrams",
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0075-sort-colors"
   ]
 }

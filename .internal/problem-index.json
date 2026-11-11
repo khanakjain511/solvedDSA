@@ -324,5 +324,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-11T18:13:15.352Z"
+  },
+  {
+    "folderId": "leetcode/0075-sort-colors",
+    "frontendId": "75",
+    "title": "Sort Colors",
+    "slug": "sort-colors",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting",
+      "Quicksort",
+      "Bubble Sort"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-11T18:14:08.619Z"
   }
 ]

@@ -13,7 +13,8 @@
     "leetcode/0705-design-hashset",
     "leetcode/0706-design-hashmap",
     "leetcode/0049-group-anagrams",
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0075-sort-colors"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -38,7 +39,8 @@
   ],
   "Two Pointers": [
     "leetcode/0027-remove-element",
-    "leetcode/0088-merge-sorted-array"
+    "leetcode/0088-merge-sorted-array",
+    "leetcode/0075-sort-colors"
   ],
   "Hash Table": [
     "leetcode/0169-majority-element",
@@ -56,7 +58,8 @@
     "leetcode/0169-majority-element",
     "leetcode/0088-merge-sorted-array",
     "leetcode/0049-group-anagrams",
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0075-sort-colors"
   ],
   "Counting": [
     "leetcode/0169-majority-element"
@@ -144,5 +147,11 @@
   ],
   "Counting Sort": [
     "leetcode/0912-sort-an-array"
+  ],
+  "Quicksort": [
+    "leetcode/0075-sort-colors"
+  ],
+  "Bubble Sort": [
+    "leetcode/0075-sort-colors"
   ]
 }

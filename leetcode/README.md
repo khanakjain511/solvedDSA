@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**22** problems solved — 13 Easy · 9 Medium · 0 Hard
+**23** problems solved — 13 Easy · 10 Medium · 0 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
@@ -57,12 +58,13 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (9)
+### Medium (10)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -87,7 +89,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (14)</summary>
+<summary>Array (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -95,6 +97,7 @@ _No problems solved yet._
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
@@ -157,6 +160,15 @@ _No problems solved yet._
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Bubble Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 
 </details>
 
@@ -335,6 +347,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Quicksort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Radix Sort (1)</summary>
 
 | # | Title | Difficulty |
@@ -344,11 +365,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (4)</summary>
+<summary>Sorting (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
@@ -389,11 +411,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (2)</summary>
+<summary>Two Pointers (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 
 </details>
@@ -412,7 +435,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (22)</summary>
+<summary>python3 (23)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -423,6 +446,7 @@ _No problems solved yet._
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
@@ -445,6 +469,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-11-11 |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-11-11 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-11-11 |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | 2026-11-10 |
@@ -459,4 +484,3 @@ _No problems solved yet._
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | 2026-10-28 |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-28 |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | 2026-10-28 |
-| 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-22 |
