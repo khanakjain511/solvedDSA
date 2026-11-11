@@ -12,7 +12,8 @@
     "leetcode/0014-longest-common-prefix",
     "leetcode/0705-design-hashset",
     "leetcode/0706-design-hashmap",
-    "leetcode/0049-group-anagrams"
+    "leetcode/0049-group-anagrams",
+    "leetcode/0912-sort-an-array"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -48,12 +49,14 @@
     "leetcode/0049-group-anagrams"
   ],
   "Divide and Conquer": [
-    "leetcode/0169-majority-element"
+    "leetcode/0169-majority-element",
+    "leetcode/0912-sort-an-array"
   ],
   "Sorting": [
     "leetcode/0169-majority-element",
     "leetcode/0088-merge-sorted-array",
-    "leetcode/0049-group-anagrams"
+    "leetcode/0049-group-anagrams",
+    "leetcode/0912-sort-an-array"
   ],
   "Counting": [
     "leetcode/0169-majority-element"
@@ -126,5 +129,20 @@
   "Hash Function": [
     "leetcode/0705-design-hashset",
     "leetcode/0706-design-hashmap"
+  ],
+  "Heap (Priority Queue)": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Merge Sort": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Bucket Sort": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Radix Sort": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Counting Sort": [
+    "leetcode/0912-sort-an-array"
   ]
 }

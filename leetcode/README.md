@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**21** problems solved — 13 Easy · 8 Medium · 0 Hard
+**22** problems solved — 13 Easy · 9 Medium · 0 Hard
 
 ## Contents
 
@@ -33,6 +33,7 @@
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | Array, Hash Table, Linked List, Design, Hash Function |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | Array, Hash Table, Linked List, Design, Hash Function |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
@@ -56,7 +57,7 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (8)
+### Medium (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -68,6 +69,7 @@
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 
 ### Hard (0)
 
@@ -85,7 +87,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (13)</summary>
+<summary>Array (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -101,6 +103,7 @@ _No problems solved yet._
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 
 </details>
@@ -158,6 +161,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Bucket Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Complete Knapsack (1)</summary>
 
 | # | Title | Difficulty |
@@ -172,6 +184,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Counting Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
 
@@ -199,11 +220,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Divide and Conquer (1)</summary>
+<summary>Divide and Conquer (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
 
@@ -254,6 +276,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Heap (Priority Queue) (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Knapsack Problem (2)</summary>
 
 | # | Title | Difficulty |
@@ -295,13 +326,32 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (3)</summary>
+<summary>Merge Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Radix Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Sorting (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
 
@@ -362,7 +412,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (21)</summary>
+<summary>python3 (22)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -385,6 +435,7 @@ _No problems solved yet._
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
@@ -394,6 +445,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-11-11 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-11-11 |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | 2026-11-10 |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | 2026-11-10 |
@@ -408,4 +460,3 @@ _No problems solved yet._
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-28 |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | 2026-10-28 |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-22 |
-| 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-22 |
