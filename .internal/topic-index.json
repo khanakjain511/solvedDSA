@@ -16,7 +16,8 @@
     "leetcode/0912-sort-an-array",
     "leetcode/0075-sort-colors",
     "leetcode/0347-top-k-frequent-elements",
-    "leetcode/0304-range-sum-query-2d-immutable"
+    "leetcode/0304-range-sum-query-2d-immutable",
+    "leetcode/0238-product-of-array-except-self"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -168,6 +169,7 @@
     "leetcode/0347-top-k-frequent-elements"
   ],
   "Prefix Sum": [
-    "leetcode/0304-range-sum-query-2d-immutable"
+    "leetcode/0304-range-sum-query-2d-immutable",
+    "leetcode/0238-product-of-array-except-self"
   ]
 }

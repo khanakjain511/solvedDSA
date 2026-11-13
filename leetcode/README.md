@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**25** problems solved — 13 Easy · 12 Medium · 0 Hard
+**26** problems solved — 13 Easy · 13 Medium · 0 Hard
 
 ## Contents
 
@@ -28,6 +28,7 @@
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium | Array, Design, Matrix, Prefix Sum |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
@@ -60,7 +61,7 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (12)
+### Medium (13)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -70,6 +71,7 @@
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Array, Design, Matrix, Prefix Sum |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
@@ -93,7 +95,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (17)</summary>
+<summary>Array (18)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -105,6 +107,7 @@ _No problems solved yet._
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
@@ -360,10 +363,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Prefix Sum (1)</summary>
+<summary>Prefix Sum (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium |
 
 </details>
@@ -467,7 +471,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (25)</summary>
+<summary>python3 (26)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -485,6 +489,7 @@ _No problems solved yet._
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
@@ -503,6 +508,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-11-13 |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium | 2026-11-13 |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-11-11 |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-11-11 |
@@ -517,4 +523,3 @@ _No problems solved yet._
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-10-29 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | 2026-10-28 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-28 |
-| 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | 2026-10-28 |
