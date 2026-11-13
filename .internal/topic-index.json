@@ -15,7 +15,8 @@
     "leetcode/0049-group-anagrams",
     "leetcode/0912-sort-an-array",
     "leetcode/0075-sort-colors",
-    "leetcode/0347-top-k-frequent-elements"
+    "leetcode/0347-top-k-frequent-elements",
+    "leetcode/0304-range-sum-query-2d-immutable"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -109,7 +110,8 @@
   "Matrix": [
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
-    "leetcode/1672-richest-customer-wealth"
+    "leetcode/1672-richest-customer-wealth",
+    "leetcode/0304-range-sum-query-2d-immutable"
   ],
   "Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -132,7 +134,8 @@
   ],
   "Design": [
     "leetcode/0705-design-hashset",
-    "leetcode/0706-design-hashmap"
+    "leetcode/0706-design-hashmap",
+    "leetcode/0304-range-sum-query-2d-immutable"
   ],
   "Hash Function": [
     "leetcode/0705-design-hashset",
@@ -163,5 +166,8 @@
   ],
   "Quickselect": [
     "leetcode/0347-top-k-frequent-elements"
+  ],
+  "Prefix Sum": [
+    "leetcode/0304-range-sum-query-2d-immutable"
   ]
 }

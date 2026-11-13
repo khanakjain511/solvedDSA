@@ -359,5 +359,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-11T18:15:01.941Z"
+  },
+  {
+    "folderId": "leetcode/0304-range-sum-query-2d-immutable",
+    "frontendId": "304",
+    "title": "Range Sum Query 2D - Immutable",
+    "slug": "range-sum-query-2d-immutable",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Design",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-13T11:33:23.944Z"
   }
 ]

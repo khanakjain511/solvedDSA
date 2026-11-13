@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "304",
+  "frontendId": "304",
+  "title": "Range Sum Query 2D - Immutable",
+  "slug": "range-sum-query-2d-immutable",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Design",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "177 ms",
+  "memory": "33.4 MB",
+  "submissionId": "2195246590",
+  "acceptedAt": "2026-11-13T11:33:23.944Z",
+  "updatedAt": "2026-11-13T11:33:24.905Z",
+  "url": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+  "version": 1
+}
