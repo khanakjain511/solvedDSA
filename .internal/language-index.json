@@ -25,6 +25,7 @@
     "leetcode/0075-sort-colors",
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0304-range-sum-query-2d-immutable",
-    "leetcode/0238-product-of-array-except-self"
+    "leetcode/0238-product-of-array-except-self",
+    "leetcode/0036-valid-sudoku"
   ]
 }

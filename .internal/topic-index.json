@@ -17,7 +17,8 @@
     "leetcode/0075-sort-colors",
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0304-range-sum-query-2d-immutable",
-    "leetcode/0238-product-of-array-except-self"
+    "leetcode/0238-product-of-array-except-self",
+    "leetcode/0036-valid-sudoku"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -52,7 +53,8 @@
     "leetcode/0705-design-hashset",
     "leetcode/0706-design-hashmap",
     "leetcode/0049-group-anagrams",
-    "leetcode/0347-top-k-frequent-elements"
+    "leetcode/0347-top-k-frequent-elements",
+    "leetcode/0036-valid-sudoku"
   ],
   "Divide and Conquer": [
     "leetcode/0169-majority-element",
@@ -112,7 +114,8 @@
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
     "leetcode/1672-richest-customer-wealth",
-    "leetcode/0304-range-sum-query-2d-immutable"
+    "leetcode/0304-range-sum-query-2d-immutable",
+    "leetcode/0036-valid-sudoku"
   ],
   "Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",

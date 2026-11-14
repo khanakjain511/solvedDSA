@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**26** problems solved — 13 Easy · 13 Medium · 0 Hard
+**27** problems solved — 13 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -20,6 +20,7 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
@@ -61,11 +62,12 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (13)
+### Medium (14)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Array, Hash Table, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
@@ -95,13 +97,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (18)</summary>
+<summary>Array (19)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -287,12 +290,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (7)</summary>
+<summary>Hash Table (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
@@ -342,10 +346,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Matrix (4)</summary>
+<summary>Matrix (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
@@ -471,7 +476,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (26)</summary>
+<summary>python3 (27)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -481,6 +486,7 @@ _No problems solved yet._
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -508,6 +514,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-11-14 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-11-13 |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium | 2026-11-13 |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-11-11 |
@@ -522,4 +529,3 @@ _No problems solved yet._
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy | 2026-10-29 |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-10-29 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | 2026-10-28 |
-| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-28 |
