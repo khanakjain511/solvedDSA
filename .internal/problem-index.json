@@ -401,5 +401,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-14T15:51:40.988Z"
+  },
+  {
+    "folderId": "leetcode/0128-longest-consecutive-sequence",
+    "frontendId": "128",
+    "title": "Longest Consecutive Sequence",
+    "slug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union-Find"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-14T15:52:06.994Z"
   }
 ]

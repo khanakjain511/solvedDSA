@@ -18,7 +18,8 @@
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0304-range-sum-query-2d-immutable",
     "leetcode/0238-product-of-array-except-self",
-    "leetcode/0036-valid-sudoku"
+    "leetcode/0036-valid-sudoku",
+    "leetcode/0128-longest-consecutive-sequence"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -54,7 +55,8 @@
     "leetcode/0706-design-hashmap",
     "leetcode/0049-group-anagrams",
     "leetcode/0347-top-k-frequent-elements",
-    "leetcode/0036-valid-sudoku"
+    "leetcode/0036-valid-sudoku",
+    "leetcode/0128-longest-consecutive-sequence"
   ],
   "Divide and Conquer": [
     "leetcode/0169-majority-element",
@@ -104,7 +106,8 @@
   "Union-Find": [
     "leetcode/1971-find-if-path-exists-in-graph",
     "leetcode/0547-number-of-provinces",
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0128-longest-consecutive-sequence"
   ],
   "Graph Theory": [
     "leetcode/1971-find-if-path-exists-in-graph",

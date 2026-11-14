@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**27** problems solved — 13 Easy · 14 Medium · 0 Hard
+**28** problems solved — 13 Easy · 15 Medium · 0 Hard
 
 ## Contents
 
@@ -27,6 +27,7 @@
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | Array, Hash Table, Union-Find |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
@@ -62,7 +63,7 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (14)
+### Medium (15)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -72,6 +73,7 @@
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
+| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Array, Hash Table, Union-Find |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Array, Design, Matrix, Prefix Sum |
@@ -97,7 +99,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (19)</summary>
+<summary>Array (20)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -108,6 +110,7 @@ _No problems solved yet._
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
+| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
@@ -290,7 +293,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (8)</summary>
+<summary>Hash Table (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -298,6 +301,7 @@ _No problems solved yet._
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
@@ -463,10 +467,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Union-Find (3)</summary>
+<summary>Union-Find (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
@@ -476,7 +481,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (27)</summary>
+<summary>python3 (28)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -493,6 +498,7 @@ _No problems solved yet._
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy |
+| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
@@ -514,6 +520,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-14 |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-11-14 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-11-13 |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium | 2026-11-13 |
@@ -528,4 +535,3 @@ _No problems solved yet._
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | 2026-11-09 |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy | 2026-10-29 |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-10-29 |
-| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | 2026-10-28 |
