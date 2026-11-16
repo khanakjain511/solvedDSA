@@ -28,6 +28,7 @@
     "leetcode/0238-product-of-array-except-self",
     "leetcode/0036-valid-sudoku",
     "leetcode/0128-longest-consecutive-sequence",
-    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ]
 }

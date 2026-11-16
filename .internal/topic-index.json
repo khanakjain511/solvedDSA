@@ -19,7 +19,8 @@
     "leetcode/0304-range-sum-query-2d-immutable",
     "leetcode/0238-product-of-array-except-self",
     "leetcode/0036-valid-sudoku",
-    "leetcode/0128-longest-consecutive-sequence"
+    "leetcode/0128-longest-consecutive-sequence",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -33,7 +34,8 @@
     "leetcode/0474-ones-and-zeroes",
     "leetcode/0091-decode-ways",
     "leetcode/0022-generate-parentheses",
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "Knapsack Problem": [
     "leetcode/0474-ones-and-zeroes",
@@ -186,5 +188,8 @@
   ],
   "Lowest Common Ancestor": [
     "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
+  ],
+  "Greedy": [
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ]
 }
