@@ -415,5 +415,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-14T15:52:06.994Z"
+  },
+  {
+    "folderId": "leetcode/0236-lowest-common-ancestor-of-a-binary-tree",
+    "frontendId": "236",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-16T03:45:50.328Z"
   }
 ]

@@ -101,7 +101,8 @@
     "leetcode/0547-number-of-provinces",
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
-    "leetcode/0111-minimum-depth-of-binary-tree"
+    "leetcode/0111-minimum-depth-of-binary-tree",
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
   ],
   "Union-Find": [
     "leetcode/1971-find-if-path-exists-in-graph",
@@ -122,11 +123,13 @@
   ],
   "Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
-    "leetcode/0111-minimum-depth-of-binary-tree"
+    "leetcode/0111-minimum-depth-of-binary-tree",
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
   ],
   "Binary Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
-    "leetcode/0111-minimum-depth-of-binary-tree"
+    "leetcode/0111-minimum-depth-of-binary-tree",
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
   ],
   "Math": [
     "leetcode/0009-palindrome-number",
@@ -177,5 +180,11 @@
   "Prefix Sum": [
     "leetcode/0304-range-sum-query-2d-immutable",
     "leetcode/0238-product-of-array-except-self"
+  ],
+  "Binary Lifting": [
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
+  ],
+  "Lowest Common Ancestor": [
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
   ]
 }
