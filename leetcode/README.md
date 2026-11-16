@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**30** problems solved — 13 Easy · 17 Medium · 0 Hard
+**31** problems solved — 13 Easy · 18 Medium · 0 Hard
 
 ## Contents
 
@@ -31,6 +31,7 @@
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | Array, Hash Table, Union-Find |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium | Array, Design, Matrix, Prefix Sum |
@@ -65,7 +66,7 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (17)
+### Medium (18)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -78,6 +79,7 @@
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Array, Hash Table, Union-Find |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Array, Design, Matrix, Prefix Sum |
@@ -103,7 +105,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (21)</summary>
+<summary>Array (22)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -118,6 +120,7 @@ _No problems solved yet._
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
@@ -161,11 +164,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Boyer–Moore Majority Vote Algorithm (1)</summary>
+<summary>Boyer–Moore Majority Vote Algorithm (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 
 </details>
 
@@ -222,11 +226,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting (2)</summary>
+<summary>Counting (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 
 </details>
@@ -319,7 +324,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (9)</summary>
+<summary>Hash Table (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -329,6 +334,7 @@ _No problems solved yet._
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
@@ -444,7 +450,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (6)</summary>
+<summary>Sorting (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -452,6 +458,7 @@ _No problems solved yet._
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
@@ -517,7 +524,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (30)</summary>
+<summary>python3 (31)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -538,6 +545,7 @@ _No problems solved yet._
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium |
@@ -558,6 +566,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-11-16 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-11-16 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | 2026-11-16 |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-14 |
@@ -572,4 +581,3 @@ _No problems solved yet._
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | 2026-11-10 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-11-10 |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy | 2026-11-09 |
-| 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | 2026-11-09 |

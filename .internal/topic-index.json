@@ -20,7 +20,8 @@
     "leetcode/0238-product-of-array-except-self",
     "leetcode/0036-valid-sudoku",
     "leetcode/0128-longest-consecutive-sequence",
-    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
+    "leetcode/0229-majority-element-ii"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -58,7 +59,8 @@
     "leetcode/0049-group-anagrams",
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0036-valid-sudoku",
-    "leetcode/0128-longest-consecutive-sequence"
+    "leetcode/0128-longest-consecutive-sequence",
+    "leetcode/0229-majority-element-ii"
   ],
   "Divide and Conquer": [
     "leetcode/0169-majority-element",
@@ -71,14 +73,17 @@
     "leetcode/0049-group-anagrams",
     "leetcode/0912-sort-an-array",
     "leetcode/0075-sort-colors",
-    "leetcode/0347-top-k-frequent-elements"
+    "leetcode/0347-top-k-frequent-elements",
+    "leetcode/0229-majority-element-ii"
   ],
   "Counting": [
     "leetcode/0169-majority-element",
-    "leetcode/0347-top-k-frequent-elements"
+    "leetcode/0347-top-k-frequent-elements",
+    "leetcode/0229-majority-element-ii"
   ],
   "Boyer–Moore Majority Vote Algorithm": [
-    "leetcode/0169-majority-element"
+    "leetcode/0169-majority-element",
+    "leetcode/0229-majority-element-ii"
   ],
   "Backtracking": [
     "leetcode/0022-generate-parentheses"
