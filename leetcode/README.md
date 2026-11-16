@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**31** problems solved — 13 Easy · 18 Medium · 0 Hard
+**32** problems solved — 14 Easy · 18 Medium · 0 Hard
 
 ## Contents
 
@@ -36,6 +36,7 @@
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium | Array, Design, Matrix, Prefix Sum |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
@@ -48,7 +49,7 @@
 
 ## By Difficulty
 
-### Easy (13)
+### Easy (14)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -60,6 +61,7 @@
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Array, Hash Table, Linked List, Design, Hash Function |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Array, Hash Table, Linked List, Design, Hash Function |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Array, Depth-First Search, Breadth-First Search, Matrix |
@@ -465,7 +467,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (6)</summary>
+<summary>String (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -474,6 +476,7 @@ _No problems solved yet._
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
 </details>
@@ -499,13 +502,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (3)</summary>
+<summary>Two Pointers (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 
 </details>
 
@@ -524,7 +528,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (31)</summary>
+<summary>python3 (32)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -550,6 +554,7 @@ _No problems solved yet._
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
@@ -566,6 +571,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-11-16 |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-11-16 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-11-16 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | 2026-11-16 |
@@ -580,4 +586,3 @@ _No problems solved yet._
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | 2026-11-10 |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | 2026-11-10 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-11-10 |
-| 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy | 2026-11-09 |

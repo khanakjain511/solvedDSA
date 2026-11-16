@@ -29,7 +29,8 @@
     "leetcode/0022-generate-parentheses",
     "leetcode/0013-roman-to-integer",
     "leetcode/0014-longest-common-prefix",
-    "leetcode/0049-group-anagrams"
+    "leetcode/0049-group-anagrams",
+    "leetcode/0344-reverse-string"
   ],
   "Dynamic Programming": [
     "leetcode/0474-ones-and-zeroes",
@@ -48,7 +49,8 @@
   "Two Pointers": [
     "leetcode/0027-remove-element",
     "leetcode/0088-merge-sorted-array",
-    "leetcode/0075-sort-colors"
+    "leetcode/0075-sort-colors",
+    "leetcode/0344-reverse-string"
   ],
   "Hash Table": [
     "leetcode/0169-majority-element",

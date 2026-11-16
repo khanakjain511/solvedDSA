@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "344",
+  "frontendId": "344",
+  "title": "Reverse String",
+  "slug": "reverse-string",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "2 ms",
+  "memory": "23.5 MB",
+  "submissionId": "2197027226",
+  "acceptedAt": "2026-11-16T04:25:19.158Z",
+  "updatedAt": "2026-11-16T04:25:19.995Z",
+  "url": "https://leetcode.com/problems/reverse-string/",
+  "version": 1
+}
