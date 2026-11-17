@@ -474,5 +474,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-16T04:25:19.158Z"
+  },
+  {
+    "folderId": "leetcode/0125-valid-palindrome",
+    "frontendId": "125",
+    "title": "Valid Palindrome",
+    "slug": "valid-palindrome",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-17T05:41:06.767Z"
   }
 ]

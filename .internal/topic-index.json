@@ -30,7 +30,8 @@
     "leetcode/0013-roman-to-integer",
     "leetcode/0014-longest-common-prefix",
     "leetcode/0049-group-anagrams",
-    "leetcode/0344-reverse-string"
+    "leetcode/0344-reverse-string",
+    "leetcode/0125-valid-palindrome"
   ],
   "Dynamic Programming": [
     "leetcode/0474-ones-and-zeroes",
@@ -50,7 +51,8 @@
     "leetcode/0027-remove-element",
     "leetcode/0088-merge-sorted-array",
     "leetcode/0075-sort-colors",
-    "leetcode/0344-reverse-string"
+    "leetcode/0344-reverse-string",
+    "leetcode/0125-valid-palindrome"
   ],
   "Hash Table": [
     "leetcode/0169-majority-element",

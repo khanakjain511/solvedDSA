@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**32** problems solved — 14 Easy · 18 Medium · 0 Hard
+**33** problems solved — 15 Easy · 18 Medium · 0 Hard
 
 ## Contents
 
@@ -28,6 +28,7 @@
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | Array, Hash Table, Union-Find |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -49,7 +50,7 @@
 
 ## By Difficulty
 
-### Easy (14)
+### Easy (15)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -60,6 +61,7 @@
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Array, Hash Table, Linked List, Design, Hash Function |
@@ -467,7 +469,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (7)</summary>
+<summary>String (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -476,6 +478,7 @@ _No problems solved yet._
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 
@@ -502,13 +505,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (4)</summary>
+<summary>Two Pointers (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 
 </details>
@@ -528,7 +532,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (32)</summary>
+<summary>python3 (33)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -546,6 +550,7 @@ _No problems solved yet._
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
@@ -571,6 +576,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-11-17 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-11-16 |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-11-16 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-11-16 |
@@ -585,4 +591,3 @@ _No problems solved yet._
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-11-11 |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | 2026-11-10 |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | 2026-11-10 |
-| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-11-10 |
