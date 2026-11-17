@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "680",
+  "frontendId": "680",
+  "title": "Valid Palindrome II",
+  "slug": "valid-palindrome-ii",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "65 ms",
+  "memory": "19.6 MB",
+  "submissionId": "2197771593",
+  "acceptedAt": "2026-11-17T05:42:53.738Z",
+  "updatedAt": "2026-11-17T05:43:14.687Z",
+  "url": "https://leetcode.com/problems/valid-palindrome-ii/",
+  "version": 1
+}

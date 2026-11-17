@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**34** problems solved — 15 Easy · 19 Medium · 0 Hard
+**35** problems solved — 16 Easy · 19 Medium · 0 Hard
 
 ## Contents
 
@@ -42,6 +42,7 @@
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium | Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 0560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k/README.md) | Medium | Array, Hash Table, Prefix Sum |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | Two Pointers, String, Greedy |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy | Array, Hash Table, Linked List, Design, Hash Function |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | Array, Hash Table, Linked List, Design, Hash Function |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix |
@@ -51,7 +52,7 @@
 
 ## By Difficulty
 
-### Easy (15)
+### Easy (16)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -65,6 +66,7 @@
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Array, Hash Table, Linked List, Design, Hash Function |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Array, Hash Table, Linked List, Design, Hash Function |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Array, Depth-First Search, Breadth-First Search, Matrix |
@@ -312,11 +314,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (1)</summary>
+<summary>Greedy (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 
 </details>
 
@@ -474,7 +477,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (8)</summary>
+<summary>String (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -486,6 +489,7 @@ _No problems solved yet._
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 
 </details>
 
@@ -510,7 +514,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (5)</summary>
+<summary>Two Pointers (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -519,6 +523,7 @@ _No problems solved yet._
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 
 </details>
 
@@ -537,7 +542,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (34)</summary>
+<summary>python3 (35)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -569,6 +574,7 @@ _No problems solved yet._
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k/README.md) | Medium |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0705 | [Design HashSet](0705-design-hashset/README.md) | Easy |
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
@@ -582,6 +588,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | 2026-11-17 |
 | 0560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k/README.md) | Medium | 2026-11-17 |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-11-17 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-11-16 |
@@ -596,4 +603,3 @@ _No problems solved yet._
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-11-11 |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-11-11 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-11-11 |
-| 0706 | [Design HashMap](0706-design-hashmap/README.md) | Easy | 2026-11-10 |

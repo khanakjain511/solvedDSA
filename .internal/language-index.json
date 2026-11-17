@@ -33,6 +33,7 @@
     "leetcode/0229-majority-element-ii",
     "leetcode/0344-reverse-string",
     "leetcode/0125-valid-palindrome",
-    "leetcode/0560-subarray-sum-equals-k"
+    "leetcode/0560-subarray-sum-equals-k",
+    "leetcode/0680-valid-palindrome-ii"
   ]
 }

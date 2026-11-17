@@ -32,7 +32,8 @@
     "leetcode/0014-longest-common-prefix",
     "leetcode/0049-group-anagrams",
     "leetcode/0344-reverse-string",
-    "leetcode/0125-valid-palindrome"
+    "leetcode/0125-valid-palindrome",
+    "leetcode/0680-valid-palindrome-ii"
   ],
   "Dynamic Programming": [
     "leetcode/0474-ones-and-zeroes",
@@ -53,7 +54,8 @@
     "leetcode/0088-merge-sorted-array",
     "leetcode/0075-sort-colors",
     "leetcode/0344-reverse-string",
-    "leetcode/0125-valid-palindrome"
+    "leetcode/0125-valid-palindrome",
+    "leetcode/0680-valid-palindrome-ii"
   ],
   "Hash Table": [
     "leetcode/0169-majority-element",
@@ -202,6 +204,7 @@
     "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
   ],
   "Greedy": [
-    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
+    "leetcode/0680-valid-palindrome-ii"
   ]
 }
