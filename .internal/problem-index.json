@@ -487,5 +487,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-17T05:41:06.767Z"
+  },
+  {
+    "folderId": "leetcode/0560-subarray-sum-equals-k",
+    "frontendId": "560",
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-17T05:42:05.065Z"
   }
 ]

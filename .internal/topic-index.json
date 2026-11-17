@@ -21,7 +21,8 @@
     "leetcode/0036-valid-sudoku",
     "leetcode/0128-longest-consecutive-sequence",
     "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
-    "leetcode/0229-majority-element-ii"
+    "leetcode/0229-majority-element-ii",
+    "leetcode/0560-subarray-sum-equals-k"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -64,7 +65,8 @@
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0036-valid-sudoku",
     "leetcode/0128-longest-consecutive-sequence",
-    "leetcode/0229-majority-element-ii"
+    "leetcode/0229-majority-element-ii",
+    "leetcode/0560-subarray-sum-equals-k"
   ],
   "Divide and Conquer": [
     "leetcode/0169-majority-element",
@@ -190,7 +192,8 @@
   ],
   "Prefix Sum": [
     "leetcode/0304-range-sum-query-2d-immutable",
-    "leetcode/0238-product-of-array-except-self"
+    "leetcode/0238-product-of-array-except-self",
+    "leetcode/0560-subarray-sum-equals-k"
   ],
   "Binary Lifting": [
     "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"

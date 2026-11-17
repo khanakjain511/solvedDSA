@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "560",
+  "frontendId": "560",
+  "title": "Subarray Sum Equals K",
+  "slug": "subarray-sum-equals-k",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "30 ms",
+  "memory": "21.7 MB",
+  "submissionId": "2197771082",
+  "acceptedAt": "2026-11-17T05:42:05.065Z",
+  "updatedAt": "2026-11-17T05:42:11.210Z",
+  "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+  "version": 1
+}
