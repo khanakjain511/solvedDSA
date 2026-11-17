@@ -515,5 +515,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-17T05:42:53.738Z"
+  },
+  {
+    "folderId": "leetcode/1768-merge-strings-alternately",
+    "frontendId": "1768",
+    "title": "Merge Strings Alternately",
+    "slug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-17T12:22:49.646Z"
   }
 ]

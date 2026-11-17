@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**35** problems solved — 16 Easy · 19 Medium · 0 Hard
+**36** problems solved — 17 Easy · 19 Medium · 0 Hard
 
 ## Contents
 
@@ -48,11 +48,12 @@
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | Array, Matrix |
+| 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy | Two Pointers, String |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ## By Difficulty
 
-### Easy (16)
+### Easy (17)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -71,6 +72,7 @@
 | 0706 | [Design HashMap](0706-design-hashmap/README.md) | Array, Hash Table, Linked List, Design, Hash Function |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
+| 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Two Pointers, String |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ### Medium (19)
@@ -477,7 +479,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (9)</summary>
+<summary>String (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -490,6 +492,7 @@ _No problems solved yet._
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0474 | [Ones and Zeroes](0474-ones-and-zeroes/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
+| 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy |
 
 </details>
 
@@ -514,7 +517,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (6)</summary>
+<summary>Two Pointers (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -524,6 +527,7 @@ _No problems solved yet._
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
+| 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy |
 
 </details>
 
@@ -542,7 +546,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (35)</summary>
+<summary>python3 (36)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -580,6 +584,7 @@ _No problems solved yet._
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
+| 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -588,6 +593,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy | 2026-11-17 |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | 2026-11-17 |
 | 0560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k/README.md) | Medium | 2026-11-17 |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-11-17 |
@@ -602,4 +608,3 @@ _No problems solved yet._
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-11-11 |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-11-11 |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-11-11 |
-| 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-11-11 |

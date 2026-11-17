@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1894",
+  "frontendId": "1768",
+  "title": "Merge Strings Alternately",
+  "slug": "merge-strings-alternately",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "41 ms",
+  "memory": "19.1 MB",
+  "submissionId": "2197981263",
+  "acceptedAt": "2026-11-17T12:22:49.646Z",
+  "updatedAt": "2026-11-17T12:22:50.656Z",
+  "url": "https://leetcode.com/problems/merge-strings-alternately/",
+  "version": 1
+}
