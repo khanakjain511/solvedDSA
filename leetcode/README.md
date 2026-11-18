@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**37** problems solved — 18 Easy · 19 Medium · 0 Hard
+**38** problems solved — 18 Easy · 20 Medium · 0 Hard
 
 ## Contents
 
@@ -31,6 +31,7 @@
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | Array, Hash Table, Union-Find |
+| 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | Array, Two Pointers, Binary Search |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
@@ -77,7 +78,7 @@
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Two Pointers, String |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (19)
+### Medium (20)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -89,6 +90,7 @@
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Array, Hash Table, Union-Find |
+| 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Array, Two Pointers, Binary Search |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
@@ -117,7 +119,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (24)</summary>
+<summary>Array (25)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -131,6 +133,7 @@ _No problems solved yet._
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
+| 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
@@ -163,6 +166,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Binary Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
 
 </details>
 
@@ -520,7 +532,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (8)</summary>
+<summary>Two Pointers (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -529,6 +541,7 @@ _No problems solved yet._
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
+| 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy |
@@ -550,7 +563,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (37)</summary>
+<summary>python3 (38)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -571,6 +584,7 @@ _No problems solved yet._
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
+| 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
@@ -598,6 +612,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | 2026-11-18 |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | 2026-11-18 |
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy | 2026-11-17 |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | 2026-11-17 |
@@ -612,4 +627,3 @@ _No problems solved yet._
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-11-13 |
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium | 2026-11-13 |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-11-11 |
-| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-11-11 |

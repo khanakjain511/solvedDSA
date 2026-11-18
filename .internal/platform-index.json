@@ -36,6 +36,7 @@
     "leetcode/0560-subarray-sum-equals-k",
     "leetcode/0680-valid-palindrome-ii",
     "leetcode/1768-merge-strings-alternately",
-    "leetcode/0026-remove-duplicates-from-sorted-array"
+    "leetcode/0026-remove-duplicates-from-sorted-array",
+    "leetcode/0167-two-sum-ii-input-array-is-sorted"
   ]
 }
