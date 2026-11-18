@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "15",
+  "frontendId": "15",
+  "title": "3Sum",
+  "slug": "3sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "483 ms",
+  "memory": "22.1 MB",
+  "submissionId": "2198423374",
+  "acceptedAt": "2026-11-18T04:28:05.313Z",
+  "updatedAt": "2026-11-18T04:28:06.154Z",
+  "url": "https://leetcode.com/problems/3sum/",
+  "version": 1
+}

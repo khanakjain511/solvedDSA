@@ -555,5 +555,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-18T04:26:36.136Z"
+  },
+  {
+    "folderId": "leetcode/0015-3sum",
+    "frontendId": "15",
+    "title": "3Sum",
+    "slug": "3sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-18T04:28:05.313Z"
   }
 ]
