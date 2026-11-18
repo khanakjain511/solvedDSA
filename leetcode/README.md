@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**36** problems solved — 17 Easy · 19 Medium · 0 Hard
+**37** problems solved — 18 Easy · 19 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy | Hash Table, Math, String |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
@@ -53,7 +54,7 @@
 
 ## By Difficulty
 
-### Easy (17)
+### Easy (18)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -61,6 +62,7 @@
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Math |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Hash Table, Math, String |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -115,12 +117,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (23)</summary>
+<summary>Array (24)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
@@ -517,10 +520,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (7)</summary>
+<summary>Two Pointers (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -546,7 +550,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (36)</summary>
+<summary>python3 (37)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -555,6 +559,7 @@ _No problems solved yet._
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
@@ -593,6 +598,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | 2026-11-18 |
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy | 2026-11-17 |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | 2026-11-17 |
 | 0560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k/README.md) | Medium | 2026-11-17 |
@@ -607,4 +613,3 @@ _No problems solved yet._
 | 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium | 2026-11-13 |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-11-11 |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-11-11 |
-| 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-11-11 |
