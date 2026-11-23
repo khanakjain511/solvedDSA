@@ -25,7 +25,8 @@
     "leetcode/0560-subarray-sum-equals-k",
     "leetcode/0026-remove-duplicates-from-sorted-array",
     "leetcode/0167-two-sum-ii-input-array-is-sorted",
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0018-4sum"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -63,7 +64,8 @@
     "leetcode/1768-merge-strings-alternately",
     "leetcode/0026-remove-duplicates-from-sorted-array",
     "leetcode/0167-two-sum-ii-input-array-is-sorted",
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0018-4sum"
   ],
   "Hash Table": [
     "leetcode/0169-majority-element",
@@ -91,7 +93,8 @@
     "leetcode/0075-sort-colors",
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0229-majority-element-ii",
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0018-4sum"
   ],
   "Counting": [
     "leetcode/0169-majority-element",

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**39** problems solved — 18 Easy · 21 Medium · 0 Hard
+**40** problems solved — 18 Easy · 22 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy | Hash Table, Math, String |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
+| 0018 | [4Sum](0018-4sum/README.md) | Medium | Array, Two Pointers, Sorting |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
@@ -79,11 +80,12 @@
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Two Pointers, String |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (21)
+### Medium (22)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Array, Two Pointers, Sorting |
+| 0018 | [4Sum](0018-4sum/README.md) | Array, Two Pointers, Sorting |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Array, Hash Table, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
@@ -121,13 +123,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (26)</summary>
+<summary>Array (27)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0018 | [4Sum](0018-4sum/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
@@ -482,11 +485,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (8)</summary>
+<summary>Sorting (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0018 | [4Sum](0018-4sum/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -536,11 +540,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (10)</summary>
+<summary>Two Pointers (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0018 | [4Sum](0018-4sum/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
@@ -568,7 +573,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (39)</summary>
+<summary>python3 (40)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -577,6 +582,7 @@ _No problems solved yet._
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
+| 0018 | [4Sum](0018-4sum/README.md) | Medium |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
@@ -618,6 +624,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0018 | [4Sum](0018-4sum/README.md) | Medium | 2026-11-23 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-18 |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | 2026-11-18 |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | 2026-11-18 |
@@ -632,4 +639,3 @@ _No problems solved yet._
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-14 |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-11-14 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-11-13 |
-| 0304 | [Range Sum Query 2D - Immutable](0304-range-sum-query-2d-immutable/README.md) | Medium | 2026-11-13 |

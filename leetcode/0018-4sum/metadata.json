@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "18",
+  "frontendId": "18",
+  "title": "4Sum",
+  "slug": "4sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "408 ms",
+  "memory": "19.3 MB",
+  "submissionId": "2202055822",
+  "acceptedAt": "2026-11-23T16:40:11.133Z",
+  "updatedAt": "2026-11-23T16:40:12.112Z",
+  "url": "https://leetcode.com/problems/4sum/",
+  "version": 1
+}
