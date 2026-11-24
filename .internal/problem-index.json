@@ -583,5 +583,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-23T16:40:11.133Z"
+  },
+  {
+    "folderId": "leetcode/0189-rotate-array",
+    "frontendId": "189",
+    "title": "Rotate Array",
+    "slug": "rotate-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-24T04:39:06.516Z"
   }
 ]

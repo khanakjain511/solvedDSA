@@ -39,6 +39,7 @@
     "leetcode/0026-remove-duplicates-from-sorted-array",
     "leetcode/0167-two-sum-ii-input-array-is-sorted",
     "leetcode/0015-3sum",
-    "leetcode/0018-4sum"
+    "leetcode/0018-4sum",
+    "leetcode/0189-rotate-array"
   ]
 }

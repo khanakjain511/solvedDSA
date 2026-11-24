@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**40** problems solved — 18 Easy · 22 Medium · 0 Hard
+**41** problems solved — 18 Easy · 23 Medium · 0 Hard
 
 ## Contents
 
@@ -35,6 +35,7 @@
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | Array, Hash Table, Union-Find |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | Array, Two Pointers, Binary Search |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
+| 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | Array, Math, Two Pointers |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
@@ -80,7 +81,7 @@
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Two Pointers, String |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (22)
+### Medium (23)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -95,6 +96,7 @@
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Array, Hash Table, Union-Find |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Array, Two Pointers, Binary Search |
+| 0189 | [Rotate Array](0189-rotate-array/README.md) | Array, Math, Two Pointers |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
@@ -123,7 +125,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (27)</summary>
+<summary>Array (28)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -141,6 +143,7 @@ _No problems solved yet._
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
@@ -415,12 +418,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (2)</summary>
+<summary>Math (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
+| 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
 
 </details>
 
@@ -540,7 +544,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (11)</summary>
+<summary>Two Pointers (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -552,6 +556,7 @@ _No problems solved yet._
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
+| 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy |
@@ -573,7 +578,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (40)</summary>
+<summary>python3 (41)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -598,6 +603,7 @@ _No problems solved yet._
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+| 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
@@ -624,6 +630,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | 2026-11-24 |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium | 2026-11-23 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-18 |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | 2026-11-18 |
@@ -638,4 +645,3 @@ _No problems solved yet._
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | 2026-11-16 |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-14 |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-11-14 |
-| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-11-13 |

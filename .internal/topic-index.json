@@ -26,7 +26,8 @@
     "leetcode/0026-remove-duplicates-from-sorted-array",
     "leetcode/0167-two-sum-ii-input-array-is-sorted",
     "leetcode/0015-3sum",
-    "leetcode/0018-4sum"
+    "leetcode/0018-4sum",
+    "leetcode/0189-rotate-array"
   ],
   "String": [
     "leetcode/0474-ones-and-zeroes",
@@ -65,7 +66,8 @@
     "leetcode/0026-remove-duplicates-from-sorted-array",
     "leetcode/0167-two-sum-ii-input-array-is-sorted",
     "leetcode/0015-3sum",
-    "leetcode/0018-4sum"
+    "leetcode/0018-4sum",
+    "leetcode/0189-rotate-array"
   ],
   "Hash Table": [
     "leetcode/0169-majority-element",
@@ -160,7 +162,8 @@
   ],
   "Math": [
     "leetcode/0009-palindrome-number",
-    "leetcode/0013-roman-to-integer"
+    "leetcode/0013-roman-to-integer",
+    "leetcode/0189-rotate-array"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
