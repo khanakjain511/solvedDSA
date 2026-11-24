@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**41** problems solved — 18 Easy · 23 Medium · 0 Hard
+**42** problems solved — 18 Easy · 24 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy | Math |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | Array, Two Pointers, Greedy |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy | Hash Table, Math, String |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
@@ -81,10 +82,11 @@
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Two Pointers, String |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (23)
+### Medium (24)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Array, Two Pointers, Greedy |
 | 0015 | [3Sum](0015-3sum/README.md) | Array, Two Pointers, Sorting |
 | 0018 | [4Sum](0018-4sum/README.md) | Array, Two Pointers, Sorting |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
@@ -125,11 +127,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Array (28)</summary>
+<summary>Array (29)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium |
@@ -340,10 +343,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (2)</summary>
+<summary>Greedy (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 
@@ -544,10 +548,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (12)</summary>
+<summary>Two Pointers (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
@@ -578,12 +583,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (41)</summary>
+<summary>python3 (42)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0009 | [Palindrome Number](0009-palindrome-number/README.md) | Easy |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0013 | [Roman to Integer](0013-roman-to-integer/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
@@ -630,6 +636,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-11-24 |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | 2026-11-24 |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium | 2026-11-23 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-18 |
@@ -644,4 +651,3 @@ _No problems solved yet._
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-11-16 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | 2026-11-16 |
 | 0128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/README.md) | Medium | 2026-11-14 |
-| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-11-14 |
